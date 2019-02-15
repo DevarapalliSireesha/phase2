@@ -51,3 +51,23 @@ button{
   /* backgrounds: #000; */
 
 }
+/*  desing style for cards */
+.cards{
+  width: 100%;
+  background: #acd;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1%;
+
+}
+.card{
+  background: white;
+  width:30%;
+  box-shadow: 2px,2px,2px,2px,2px, black;
+  margin: 1%;
+  text-align: center;
+  padding: 1%;
+}
+img{
+  width:100%;
+}
